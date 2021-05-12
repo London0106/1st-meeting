@@ -1,0 +1,7 @@
+Buat Algorithm untuk X & Y
+= X = 2
+= Y = 7
+=
+= X = X2
+= Y = Y7
+= X2 + Y7 = X̲2̲ ̲+̲ ̲Y̲7̲
